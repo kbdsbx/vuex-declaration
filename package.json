@@ -1,0 +1,21 @@
+{
+  "name": "vuex-declaration",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "vue": "^2.5.17",
+    "vuex": "^3.0.1"
+  },
+  "scripts": {
+    "test": "vue serve test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
