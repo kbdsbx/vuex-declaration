@@ -4,7 +4,7 @@
          @mousedown="hold"
          @mousemove="move"
          @mouseup="out"
-         :style="`width: 500px; height: 500px; background-color: #e4cccc; position: absolute; left : ${left}px; top : ${top}px`">
+         :style="`width: 500px; height: 500px; background-color: #e4cccc; position: absolute; left : ${left}px; top : ${top}px; cursor : move`">
         </div>
     </div>
 </template>
